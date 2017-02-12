@@ -14,3 +14,11 @@ A list of all of the sites that are indexof sites
 
 ## indexof-sites-struct
 The complete folder structure of all the indexof sites. Does not list files
+
+## ssh-connect
+List of ip addresses that:
+* Replied to my initial ping
+* Had port 22 open
+* I was able to connect to over ssh within 15 seconds
+
+Each entry also has a status, OK being things you can connect to
