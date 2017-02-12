@@ -13,4 +13,4 @@ A list of every ip address that:
 A list of all of the sites that are indexof sites
 
 ## indexof-sites-struct
-The complete folder structure of all of the indexof sites
+The complete folder structure of all the indexof sites. Does not list files
