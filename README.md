@@ -22,3 +22,20 @@ List of ip addresses that:
 * I was able to connect to over ssh within 15 seconds
 
 Each entry also has a status, OK being things you can connect to
+
+## ftp-connect
+List of ip addresses that:
+* Replied to my initial ping
+* Had port 21 open
+* I was able to connect to over ftp within 1 second
+
+Each entry also has a status, OK being things you can log in to as anonymous
+
+## ftp-connect-ok
+Only the OK's from ftp-connect
+
+## ftp-struct
+List of all files and directories in the root folder of all open ftp servers on the list
+
+## smb-open
+List of open smb servers
