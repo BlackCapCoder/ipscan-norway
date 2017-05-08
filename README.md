@@ -44,3 +44,6 @@ List of all files and directories in the root folder of all open ftp servers on 
 
 ## smb-open
 List of open smb servers
+
+## Footnotes:
+* All of the 146.2.* addresses in portscan502 are used by the Norwegian traffic system. You may or may not be able to control the traffic lights
