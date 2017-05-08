@@ -1,3 +1,8 @@
+# ipscan-norway
+This is a complete scan of all ip blocks owned by Norwegian companies. They are mostly home- or state owned.
+I only scanned certain ports, and only if the addresses replied to a ping first.
+This project aims to help the respective owners close their ports. If you are on either of these lists and don't want to be, do let me know.
+
 ## no.csv
 A list of norwegian ip blocks that I got from nirsoft
 
